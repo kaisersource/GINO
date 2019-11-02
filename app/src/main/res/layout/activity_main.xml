@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ml"
+
+    tools:context="com.example.emanuele.gino.MainActivity">
+
+
+
+    <TableLayout
+        android:id="@+id/tbl_header"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        android:stretchColumns="*"
+
+        android:showDividers="middle"
+        />
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="50dp"
+        android:paddingTop="20dp"
+        android:fillViewport="false"
+        >
+        <TableLayout
+            android:id="@+id/tfb"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp"
+
+            >
+
+
+
+
+
+        </TableLayout>
+    </ScrollView>
+<RelativeLayout
+android:id="@+id/pulsanti"
+
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:orientation="horizontal">
+
+</RelativeLayout>
+
+
+
+
+</RelativeLayout>
+

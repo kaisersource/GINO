@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GINO</string>
+    <string name="dis">DISEGNA</string>
+    <string name="ver">VERIFICA</string>
+
+    <string name="tfb"></string>
+    <string name="ml"></string>
+    <string name="roboto_light">roboto_light</string>
+    <string name="number_picker_formatter">%02d</string>
+
+
+</resources>

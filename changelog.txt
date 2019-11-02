@@ -1,0 +1,77 @@
+v0.01
+Implementazione del metodo per determinare gli archi
+
+v0.02
+Implementazione del metodo per determinare il massimo grado
+
+v0.03
+Implementazione del metodo per rilevare la regolarità del grafo
+
+v0.04
+Implementazione del metodo per rilevare i nodi isolati
+
+v0.05
+Matrice di adiacenza 4x4 costruzione di array di edittext
+
+v0.06
+L'utente ora può scegliere nella home la dimensione (4 o 5)
+
+v0.07
+Inserimento dello splash screen
+
+v0.08
+Edittext sostituiti con una matrice di bottoni che assumono 0 o 1
+
+v0.09
+Implementazione dell'icona dell'app
+
+v0.10
+Applicazione ridisegnata, la matrice ora è dinamica
+
+v0.11
+Inserimento degli indici sopra la matrice di adiacenza
+
+v0.12
+Implementazione del metodo per rilevare le componenti connesse
+
+v0.13
+Implementazione del metodo per rilevare le proprietà euleriane.
+
+v0.14
+Migliorata la rilevazione del grado massimo in presenza di cappi
+
+v0.15
+Migliorata la grafica dei risultati, partizionatori verdi e gradiente
+
+v0.16
+verde-rosa
+
+v0.17
+Miglioramento dello splash screen:nuova progressbar
+
+v0.18
+Implementazione delle spiegazioni in Latex nell'activity dei risultati
+
+v0.19 
+Migliorata l'estetica della matrice di adiacenza. Gradiente Arancio-Rosso 
+
+v0.20 
+cliccando i bottoni della matrice di adiacenza avviene il cambio di colore
+v0.21
+-miglioramento della grafica home: gradiente per bottone, diversa colorazione per la textview, disegnare il grafo
+		
+v0.22
+Implementazione della gif nella home col framework Glide
+
+v0.23
+ E' possibile disegnare il grafo. index.html contiene il javascript che preleva il json DCIM/grafo.json. Tale json viene generato dalla matrice di adiacenza tramite la libreria Gson.
+
+v0.24 miglioramento dell'estetica della matrice di adiacenza
+
+v0.25 disegna e verifica ora sono due bottoni imagebuttons creati programmaticamente.
+
+v0.26 aggiunta scrollview per matrice di grande dimensione
+
+v0.27 migliorata la scelta della dimensione
+
+v0.28 Added Runtime permission to support API 23 
