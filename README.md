@@ -1,4 +1,4 @@
-# GINO (Graph Is Not Oriented)
+# GINO (Graph Is Not Oriented) - Check adj/graph properties
 
 Android application to check the properties of an adjacency matrix. It can be converted to an undirected graph via Webview.
 
